@@ -2,6 +2,8 @@
 
 A Unity-based 2D tank game with turn-based mechanics, projectile physics, and UI elements.
 
+**Unity Engine version: 2021.3.10f1**
+
 ## 🖼️ Screenshots
 
 ![Lobby Screenshot](./Images/Lobby.png)
