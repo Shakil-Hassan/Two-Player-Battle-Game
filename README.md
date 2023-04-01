@@ -2,7 +2,12 @@
 
 A Unity-based 2D tank game with turn-based mechanics, projectile physics, and UI elements.
 
-![Game Screenshot](./Images/Lobby.png)
+## 🖼️ Screenshots
+
+![Lobby Screenshot](./Images/Lobby.png)
+![Gameplay Screenshot](./Images/GamePlay.png)
+![Trajectory Screenshot](./Images/GamePlay2.png)
+![Game Over Screenshot](./Images/GameOver.png)
 
 ## 🎮 Features
 
