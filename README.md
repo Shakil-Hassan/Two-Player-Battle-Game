@@ -27,6 +27,8 @@ A Unity-based 2D tank game with turn-based mechanics, projectile physics, and UI
 
 ## 🎮 Controls
 
+- Draw the Aim by clicking on any point on the screen and move around to see the power and angle of the projectile to shoot
+- Release the left mouse button to shoot the projectile
 - Move left and right: Arrow keys or A/D
 - Aim: Move the mouse
 - Shoot: Left mouse button
